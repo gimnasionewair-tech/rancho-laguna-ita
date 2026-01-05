@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rancho Laguna Ita - Gestión de Reservas",
+  "description": "Sistema profesional de gestión de reservas para complejos de cabañas con calendario interactivo y personalización visual.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
